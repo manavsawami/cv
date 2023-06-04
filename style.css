@@ -1,0 +1,25 @@
+body{
+    background-color: #D8C4B6;
+    
+}
+h1{
+  color: blueviolet;
+}
+h3{
+    color: blueviolet;
+}
+hr{
+    
+
+border-style: none;
+border-top-style: dotted;
+border-color: black;
+border-width: 5px;
+width: 5%;
+
+}
+img{
+    height: 200px;
+    
+
+}
